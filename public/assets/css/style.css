@@ -1,0 +1,36 @@
+/** {
+  border: 1px solid rgba(0, 0, 0, .10);
+}*/
+
+body {
+  background-color: #f6cb68;
+  font-family: 'Love Ya Like A Sister', cursive;
+  font-size: 19px;
+}
+
+.logo {
+  display: block;
+  max-width: 300px;
+  height: auto;
+  margin: 20px auto;
+}
+
+.btn-width {
+  width: 251px;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  padding: 15px;
+  margin: 15px;
+  background-color: white;
+  border-radius: 5px;
+}
+
+.myForm {
+  margin-left: 18px;
+  margin-top: 10px;
+}
